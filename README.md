@@ -15,4 +15,4 @@ Este projeto é uma landing page moderna e responsiva, projetada para capturar l
 - `images/`: Pasta contendo as imagens utilizadas no projeto.
 
 ## Logo do LinkedIn no Rodapé
-Adicionamos uma logo do LinkedIn no rodapé que é um link para o seu perfil no LinkedIn. A logo possui um efeito de “mundo invertido” aplicado através de uma classe CSS.
+Adicionei uma logo do LinkedIn no rodapé que é um link para o meu perfil no LinkedIn. A logo possui um efeito de “mundo invertido” aplicado através de uma classe CSS.

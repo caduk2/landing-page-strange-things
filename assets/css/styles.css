@@ -394,7 +394,7 @@ footer::after {
 }
 
 .dark-theme .invert-element-in {
-    transform: rotateZ(180deg) scaleX(1);
+    transform: rotateZ(180deg);
 }
 
 .container-logo {
@@ -406,6 +406,9 @@ footer::after {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.container-logo:hover {
+    transform: scale(1.2);
 }
 
 .container-logo a{

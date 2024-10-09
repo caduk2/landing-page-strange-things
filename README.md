@@ -19,7 +19,7 @@ Adicionei uma logo do LinkedIn no rodapé que é um link para o meu perfil no Li
 
 ## Animação de Logo no LinkedIn
 
-Implemeei uma animação no logo do LinkedIn com dois estados distintos para melhorar a experiência do usuário. Abaixo estão os detalhes dos estados e seus comportamentos:
+Implementei uma animação no logo do LinkedIn com dois estados distintos para melhorar a experiência do usuário. Abaixo estão os detalhes dos estados e seus comportamentos:
 
 ### Estados da Animação
 
